@@ -1,2 +1,2 @@
 # TEI
-oi td bem chegou agr
+oi td bem chegou agr?
