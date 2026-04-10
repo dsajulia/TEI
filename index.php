@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Simples </title>
+</head>
+<body>
+    <h1>Enviar Arquivo</h1>
+
+    <form action="upload.php" method="post" enctype="multipart/form-data">
+    <input type="file" name="arquivo">
+    <button type="submit">Enviar</button>
+</form>
+</body>
+</html>
